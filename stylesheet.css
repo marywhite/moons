@@ -1,6 +1,11 @@
 .day {
-	border: 1px solid black;
+	border: thin solid black;
 	height: 5em;
+	text-align: center;
+}
+
+h5 {
+	font-size: 3em;
 }
 
 .not {
@@ -8,7 +13,15 @@
 	color: black;
 }
 
+.moon {
+	width: 100%;
+	padding: .2em;
+}
+
 img {
 	width: 100%;
-	margin-top: .75em;
+}
+
+p {
+	font-size: 3em;
 }
